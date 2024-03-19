@@ -28,8 +28,6 @@ commitMessages:
   summaryJson: ":card_file_box: Update status summary [skip ci] [upptime]"
   statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms) [skip ci] [upptime]"
   graphsUpdate: ":bento: Update graphs [skip ci] [upptime]"
-
-commitMessages:
   commitAuthorName: "Felix Uptime Check Bot"
   commitAuthorEmail: "github@felixmedia.xyz"
 
