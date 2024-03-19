@@ -9,6 +9,10 @@ sites:
     url: fast.felixmedia.xyz
   - name: Google
     url: https://www.google.com
+  - name: Netflix
+    url: netflix.com
+  - name: Disney+
+    url: disneyplus.com
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
