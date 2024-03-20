@@ -21,9 +21,9 @@ sites:
 #    url: https://thissitedoesnotexist.koj.co
   - name: DerPleb.de Web
     url:  derpleb.de
-  - name: DerPleb.de MC
+  - name: Secret MC Server
     check: "tcp-ping"
-    url:  derpleb.de
+    url:  $SECRET_MC_SERVER
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
