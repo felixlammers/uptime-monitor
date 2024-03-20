@@ -23,7 +23,7 @@ sites:
     url:  derpleb.de
   - name: Secret MC Server
     check: "tcp-ping"
-    url:  $SECRET_MC_SERVER
+    url:  derpleb.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
