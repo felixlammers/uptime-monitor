@@ -4,19 +4,19 @@ repo: uptime-monitor # The name of this repository
 
 sites:
   - name: Dyn Start Page
-    url: https://start.felixmedia.xyz
+    url:  start.felixmedia.xyz
   - name: Fast
-    url: fast.felixmedia.xyz
+    url:  fast.felixmedia.xyz
   - name: Google
-    url: https://www.google.com
+    url:  google.com
   - name: Netflix
-    url: netflix.com
+    url:  netflix.com
   - name: Disney+
-    url: disneyplus.com
+    url:  disneyplus.com
   - name: Wikipedia
-    url: https://en.wikipedia.org
+    url:  en.wikipedia.org
   - name: Hacker News
-    url: https://news.ycombinator.com
+    url:  news.ycombinator.com
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
 
