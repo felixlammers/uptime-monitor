@@ -15,15 +15,8 @@ sites:
     url:  disneyplus.com
   - name: Wikipedia
     url:  en.wikipedia.org
-  - name: Hacker News
-    url:  news.ycombinator.com
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
-#  - name: DerPleb.de Web
-#    url:  derpleb.de
-#  - name: Secret MC Server
-#    check: "tcp-ping"
-#    url:  derpleb.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
