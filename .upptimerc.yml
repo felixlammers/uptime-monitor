@@ -5,7 +5,7 @@ repo: uptime-monitor # The name of this repository
 sites:
   - name: Dyn Start Page
     url:  start.felixmedia.xyz
-  - name: Fast
+  - name: Fast (Short Link Service)
     url:  fast.felixmedia.xyz
   - name: Google
     url:  google.com
