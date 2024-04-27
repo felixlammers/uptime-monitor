@@ -22,9 +22,9 @@
     "url": "fast.felixmedia.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fast-short-link-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 394,
     "timeMonth": 394,
     "timeYear": 394,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-27": 0
+    }
   },
   {
     "name": "Google",
@@ -49,7 +51,7 @@
     "time": 219,
     "timeDay": 277,
     "timeWeek": 232,
-    "timeMonth": 155,
+    "timeMonth": 157,
     "timeYear": 219,
     "dailyMinutesDown": {}
   },
@@ -67,7 +69,7 @@
     "time": 746,
     "timeDay": 805,
     "timeWeek": 798,
-    "timeMonth": 767,
+    "timeMonth": 753,
     "timeYear": 746,
     "dailyMinutesDown": {}
   },
@@ -85,7 +87,7 @@
     "time": 422,
     "timeDay": 325,
     "timeWeek": 441,
-    "timeMonth": 426,
+    "timeMonth": 430,
     "timeYear": 422,
     "dailyMinutesDown": {}
   },
@@ -103,7 +105,7 @@
     "time": 222,
     "timeDay": 260,
     "timeWeek": 225,
-    "timeMonth": 224,
+    "timeMonth": 229,
     "timeYear": 222,
     "dailyMinutesDown": {}
   }
