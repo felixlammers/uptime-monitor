@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 111,
-    "timeWeek": 157,
-    "timeMonth": 166,
-    "timeYear": 166,
+    "time": 173,
+    "timeDay": 343,
+    "timeWeek": 179,
+    "timeMonth": 173,
+    "timeYear": 173,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 433,
-    "timeDay": 421,
-    "timeWeek": 494,
-    "timeMonth": 433,
-    "timeYear": 433,
+    "time": 443,
+    "timeDay": 718,
+    "timeWeek": 509,
+    "timeMonth": 443,
+    "timeYear": 443,
     "dailyMinutesDown": {
       "2024-04-27": 31
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 205,
-    "timeDay": 77,
-    "timeWeek": 133,
-    "timeMonth": 184,
-    "timeYear": 205,
+    "time": 204,
+    "timeDay": 103,
+    "timeWeek": 130,
+    "timeMonth": 176,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2024-05-01": 41
     }
@@ -62,18 +62,20 @@
     "url": "netflix.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "netflix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 766,
-    "timeDay": 525,
-    "timeWeek": 800,
-    "timeMonth": 817,
-    "timeYear": 766,
-    "dailyMinutesDown": {}
+    "time": 790,
+    "timeDay": 1670,
+    "timeWeek": 975,
+    "timeMonth": 856,
+    "timeYear": 790,
+    "dailyMinutesDown": {
+      "2024-05-16": 0
+    }
   },
   {
     "name": "Disney+",
@@ -86,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 299,
-    "timeWeek": 323,
+    "time": 398,
+    "timeDay": 172,
+    "timeWeek": 333,
     "timeMonth": 372,
-    "timeYear": 401,
+    "timeYear": 398,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 215,
-    "timeWeek": 199,
-    "timeMonth": 241,
-    "timeYear": 234,
+    "time": 232,
+    "timeDay": 105,
+    "timeWeek": 204,
+    "timeMonth": 242,
+    "timeYear": 232,
     "dailyMinutesDown": {}
   }
 ]
