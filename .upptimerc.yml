@@ -24,9 +24,9 @@ status-website:
   cname: status.felixmedia.xyz
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Felix Status Check
+  name: Felix Status Check 
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is Felix status page
+  introMessage: This is Felix status page :eyes: 
   theme: night
   robotsText: "User-agent: * \n Disallow: /"
   metaTags:
