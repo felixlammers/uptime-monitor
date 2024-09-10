@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 278,
-    "timeWeek": 214,
-    "timeMonth": 245,
-    "timeYear": 198,
+    "time": 200,
+    "timeDay": 322,
+    "timeWeek": 236,
+    "timeMonth": 250,
+    "timeYear": 200,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 450,
-    "timeDay": 413,
-    "timeWeek": 346,
-    "timeMonth": 489,
+    "timeDay": 410,
+    "timeWeek": 353,
+    "timeMonth": 487,
     "timeYear": 450,
     "dailyMinutesDown": {
       "2024-08-03": 18,
@@ -41,7 +41,7 @@
   {
     "name": "Google",
     "url": "google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "icon": "https://www.google.com/favicon.ico",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 162,
-    "timeDay": 131,
-    "timeWeek": 128,
-    "timeMonth": 162,
+    "timeDay": 111,
+    "timeWeek": 122,
+    "timeMonth": 160,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2024-05-01": 41
@@ -61,7 +61,7 @@
   {
     "name": "Netflix",
     "url": "netflix.com",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "icon": "https://www.netflix.com/favicon.ico",
     "slug": "netflix",
     "status": "up",
     "uptime": "100.00%",
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 924,
-    "timeDay": 878,
-    "timeWeek": 922,
-    "timeMonth": 1039,
-    "timeYear": 924,
+    "time": 927,
+    "timeDay": 1049,
+    "timeWeek": 974,
+    "timeMonth": 1050,
+    "timeYear": 927,
     "dailyMinutesDown": {}
   },
   {
@@ -87,11 +87,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 536,
-    "timeDay": 614,
-    "timeWeek": 784,
-    "timeMonth": 865,
-    "timeYear": 536,
+    "time": 535,
+    "timeDay": 565,
+    "timeWeek": 753,
+    "timeMonth": 854,
+    "timeYear": 535,
     "dailyMinutesDown": {
       "2024-09-05": 19
     }
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 866,
-    "timeWeek": 468,
-    "timeMonth": 345,
-    "timeYear": 258,
+    "time": 257,
+    "timeDay": 594,
+    "timeWeek": 422,
+    "timeMonth": 336,
+    "timeYear": 257,
     "dailyMinutesDown": {}
   }
 ]
