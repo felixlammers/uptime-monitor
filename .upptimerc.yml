@@ -9,8 +9,10 @@ sites:
     url:  fast.felixmedia.xyz
   - name: Google
     url:  google.com
+    icon: https://www.google.com/favicon.ico
   - name: Netflix
     url:  netflix.com
+    icon: https://www.netflix.com/favicon.ico
   - name: Disney+
     url:  disneyplus.com
   - name: Wikipedia
