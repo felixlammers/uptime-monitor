@@ -8,7 +8,7 @@ sites:
     icon: https://start.felixmedia.xyz/favicon.ico
   - name: Fast (Short Link Service)
     url:  fast.felixmedia.xyz
-    icon: https://fast.felixmedia.xyz/favicon.ico
+    icon: https://short.io/favicon.ico
   - name: Google
     url:  google.com
     icon: https://www.google.com/favicon.ico
