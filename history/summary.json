@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 239,
-    "timeWeek": 231,
-    "timeMonth": 244,
-    "timeYear": 199,
+    "time": 200,
+    "timeDay": 222,
+    "timeWeek": 241,
+    "timeMonth": 246,
+    "timeYear": 200,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 451,
-    "timeDay": 446,
-    "timeWeek": 377,
-    "timeMonth": 490,
-    "timeYear": 451,
+    "time": 453,
+    "timeDay": 639,
+    "timeWeek": 406,
+    "timeMonth": 495,
+    "timeYear": 453,
     "dailyMinutesDown": {
       "2024-08-03": 18,
       "2024-04-27": 31
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 161,
-    "timeDay": 79,
-    "timeWeek": 120,
-    "timeMonth": 157,
+    "timeDay": 82,
+    "timeWeek": 116,
+    "timeMonth": 155,
     "timeYear": 161,
     "dailyMinutesDown": {
       "2024-05-01": 41
@@ -69,17 +69,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 927,
-    "timeDay": 1038,
-    "timeWeek": 993,
-    "timeMonth": 1060,
-    "timeYear": 927,
+    "time": 928,
+    "timeDay": 1081,
+    "timeWeek": 1020,
+    "timeMonth": 1066,
+    "timeYear": 928,
     "dailyMinutesDown": {}
   },
   {
     "name": "Disney+",
     "url": "disneyplus.com",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "icon": "https://www.disneyplus.com/favicon.ico",
     "slug": "disney",
     "status": "up",
     "uptime": "99.99%",
@@ -87,11 +87,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 536,
-    "timeDay": 595,
-    "timeWeek": 724,
-    "timeMonth": 860,
-    "timeYear": 536,
+    "time": 539,
+    "timeDay": 904,
+    "timeWeek": 762,
+    "timeMonth": 868,
+    "timeYear": 539,
     "dailyMinutesDown": {
       "2024-09-05": 19
     }
@@ -99,7 +99,7 @@
   {
     "name": "Wikipedia",
     "url": "en.wikipedia.org",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "icon": "https://www.wikipedia.org/favicon.ico",
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 257,
-    "timeDay": 417,
-    "timeWeek": 422,
-    "timeMonth": 336,
-    "timeYear": 257,
+    "time": 256,
+    "timeDay": 149,
+    "timeWeek": 385,
+    "timeMonth": 328,
+    "timeYear": 256,
     "dailyMinutesDown": {}
   }
 ]
