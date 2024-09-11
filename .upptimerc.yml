@@ -15,8 +15,10 @@ sites:
     icon: https://www.netflix.com/favicon.ico
   - name: Disney+
     url:  disneyplus.com
+    icon: https://www.disneyplus.com/favicon.ico
   - name: Wikipedia
     url:  en.wikipedia.org
+    icon: https://www.wikipedia.org/favicon.ico
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
 
