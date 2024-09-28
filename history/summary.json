@@ -5,18 +5,19 @@
     "icon": "https://start.felixmedia.xyz/favicon.ico",
     "slug": "dynamic-start-page",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.64%",
+    "uptimeDay": "43.96%",
+    "uptimeWeek": "91.99%",
+    "uptimeMonth": "98.16%",
+    "uptimeYear": "99.64%",
     "time": 196,
-    "timeDay": 228,
-    "timeWeek": 174,
-    "timeMonth": 193,
+    "timeDay": 273,
+    "timeWeek": 183,
+    "timeMonth": 189,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2024-09-27": 0
+      "2024-09-28": 53,
+      "2024-09-27": 754
     }
   },
   {
@@ -31,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 459,
-    "timeDay": 238,
-    "timeWeek": 417,
-    "timeMonth": 465,
+    "timeDay": 430,
+    "timeWeek": 435,
+    "timeMonth": 461,
     "timeYear": 459,
     "dailyMinutesDown": {
       "2024-08-03": 18,
@@ -52,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 158,
-    "timeDay": 139,
-    "timeWeek": 143,
-    "timeMonth": 118,
+    "timeDay": 258,
+    "timeWeek": 136,
+    "timeMonth": 123,
     "timeYear": 158,
     "dailyMinutesDown": {
       "2024-05-01": 41
@@ -72,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 938,
-    "timeDay": 1118,
-    "timeWeek": 1072,
-    "timeMonth": 1071,
+    "timeDay": 859,
+    "timeWeek": 1066,
+    "timeMonth": 1056,
     "timeYear": 938,
     "dailyMinutesDown": {}
   },
@@ -90,9 +91,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 559,
-    "timeDay": 807,
-    "timeWeek": 736,
-    "timeMonth": 757,
+    "timeDay": 604,
+    "timeWeek": 715,
+    "timeMonth": 748,
     "timeYear": 559,
     "dailyMinutesDown": {
       "2024-09-05": 19
@@ -110,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 260,
-    "timeDay": 263,
-    "timeWeek": 315,
-    "timeMonth": 341,
+    "timeDay": 432,
+    "timeWeek": 340,
+    "timeMonth": 351,
     "timeYear": 260,
     "dailyMinutesDown": {}
   }
