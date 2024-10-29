@@ -8,7 +8,7 @@
     "uptime": "98.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.70%",
+    "uptimeMonth": "97.38%",
     "uptimeYear": "98.32%",
     "time": 198,
     "timeDay": 230,
@@ -70,18 +70,20 @@
     "url": "netflix.com",
     "icon": "https://www.netflix.com/favicon.ico",
     "slug": "netflix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 983,
-    "timeDay": 873,
-    "timeWeek": 1479,
-    "timeMonth": 1302,
-    "timeYear": 983,
-    "dailyMinutesDown": {}
+    "time": 982,
+    "timeDay": 900,
+    "timeWeek": 1410,
+    "timeMonth": 1290,
+    "timeYear": 982,
+    "dailyMinutesDown": {
+      "2024-10-29": 0
+    }
   },
   {
     "name": "Disney+",
