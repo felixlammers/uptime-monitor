@@ -72,19 +72,19 @@
     "url": "netflix.com",
     "icon": "https://www.netflix.com/favicon.ico",
     "slug": "netflix",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1012,
-    "timeDay": 809,
-    "timeWeek": 966,
-    "timeMonth": 1118,
+    "timeDay": 832,
+    "timeWeek": 956,
+    "timeMonth": 1111,
     "timeYear": 1012,
     "dailyMinutesDown": {
-      "2024-12-08": 0
+      "2024-12-08": 12
     }
   },
   {
