@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.66%",
     "time": 197,
-    "timeDay": 157,
+    "timeDay": 174,
     "timeWeek": 176,
-    "timeMonth": 185,
+    "timeMonth": 184,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2024-09-30": 939,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 466,
-    "timeDay": 287,
-    "timeWeek": 347,
-    "timeMonth": 518,
+    "timeDay": 336,
+    "timeWeek": 345,
+    "timeMonth": 512,
     "timeYear": 466,
     "dailyMinutesDown": {
       "2024-11-15": 33,
@@ -58,8 +58,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 148,
-    "timeDay": 63,
-    "timeWeek": 152,
+    "timeDay": 117,
+    "timeWeek": 147,
     "timeMonth": 125,
     "timeYear": 148,
     "dailyMinutesDown": {
@@ -72,19 +72,19 @@
     "url": "netflix.com",
     "icon": "https://www.netflix.com/favicon.ico",
     "slug": "netflix",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1015,
-    "timeDay": 682,
-    "timeWeek": 1141,
-    "timeMonth": 1139,
-    "timeYear": 1015,
+    "time": 1014,
+    "timeDay": 628,
+    "timeWeek": 1106,
+    "timeMonth": 1129,
+    "timeYear": 1014,
     "dailyMinutesDown": {
-      "2024-12-15": 0
+      "2024-12-15": 4
     }
   },
   {
@@ -98,11 +98,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 488,
-    "timeWeek": 678,
-    "timeMonth": 678,
-    "timeYear": 590,
+    "time": 589,
+    "timeDay": 453,
+    "timeWeek": 650,
+    "timeMonth": 671,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2024-09-05": 19
     }
@@ -119,8 +119,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 263,
-    "timeDay": 244,
-    "timeWeek": 344,
+    "timeDay": 279,
+    "timeWeek": 336,
     "timeMonth": 276,
     "timeYear": 263,
     "dailyMinutesDown": {}
