@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.09%",
     "time": 212,
-    "timeDay": 179,
-    "timeWeek": 203,
-    "timeMonth": 258,
+    "timeDay": 189,
+    "timeWeek": 185,
+    "timeMonth": 254,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2024-09-30": 939,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 462,
-    "timeDay": 623,
-    "timeWeek": 414,
-    "timeMonth": 489,
-    "timeYear": 462,
+    "time": 463,
+    "timeDay": 662,
+    "timeWeek": 469,
+    "timeMonth": 497,
+    "timeYear": 463,
     "dailyMinutesDown": {
       "2024-11-15": 33,
       "2024-10-01": 47,
@@ -58,9 +58,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 144,
-    "timeDay": 78,
-    "timeWeek": 118,
-    "timeMonth": 173,
+    "timeDay": 128,
+    "timeWeek": 121,
+    "timeMonth": 175,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2024-11-11": 18,
@@ -74,18 +74,16 @@
     "slug": "netflix",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1061,
-    "timeDay": 953,
-    "timeWeek": 1058,
-    "timeMonth": 1198,
+    "timeDay": 839,
+    "timeWeek": 1034,
+    "timeMonth": 1214,
     "timeYear": 1082,
-    "dailyMinutesDown": {
-      "2025-04-06": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Disney+",
@@ -98,11 +96,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 571,
-    "timeDay": 202,
-    "timeWeek": 191,
-    "timeMonth": 222,
-    "timeYear": 580,
+    "time": 570,
+    "timeDay": 302,
+    "timeWeek": 203,
+    "timeMonth": 225,
+    "timeYear": 579,
     "dailyMinutesDown": {
       "2024-09-05": 19
     }
@@ -119,10 +117,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 247,
-    "timeDay": 266,
-    "timeWeek": 142,
-    "timeMonth": 146,
-    "timeYear": 250,
+    "timeDay": 192,
+    "timeWeek": 158,
+    "timeMonth": 149,
+    "timeYear": 249,
     "dailyMinutesDown": {}
   }
 ]
