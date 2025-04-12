@@ -72,18 +72,20 @@
     "url": "netflix.com",
     "icon": "https://www.netflix.com/favicon.ico",
     "slug": "netflix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1064,
-    "timeDay": 1482,
-    "timeWeek": 1133,
-    "timeMonth": 1203,
-    "timeYear": 1091,
-    "dailyMinutesDown": {}
+    "time": 1074,
+    "timeDay": 3497,
+    "timeWeek": 1571,
+    "timeMonth": 1330,
+    "timeYear": 1102,
+    "dailyMinutesDown": {
+      "2025-04-12": 0
+    }
   },
   {
     "name": "Disney+",
