@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.13%",
     "time": 213,
-    "timeDay": 158,
-    "timeWeek": 205,
-    "timeMonth": 217,
+    "timeDay": 212,
+    "timeWeek": 197,
+    "timeMonth": 216,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2024-09-30": 939,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 467,
-    "timeDay": 337,
-    "timeWeek": 509,
-    "timeMonth": 521,
+    "timeDay": 351,
+    "timeWeek": 465,
+    "timeMonth": 526,
     "timeYear": 468,
     "dailyMinutesDown": {
       "2024-11-15": 33,
@@ -57,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 70,
+    "timeDay": 84,
     "timeWeek": 148,
-    "timeMonth": 113,
+    "timeMonth": 112,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2024-11-11": 18
@@ -72,18 +72,16 @@
     "slug": "netflix",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1104,
-    "timeDay": 2684,
-    "timeWeek": 1574,
-    "timeMonth": 1565,
-    "timeYear": 1153,
-    "dailyMinutesDown": {
-      "2025-05-01": 11
-    }
+    "timeDay": 2638,
+    "timeWeek": 1539,
+    "timeMonth": 1564,
+    "timeYear": 1152,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Disney+",
@@ -97,10 +95,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 552,
-    "timeDay": 316,
-    "timeWeek": 208,
-    "timeMonth": 209,
-    "timeYear": 569,
+    "timeDay": 688,
+    "timeWeek": 268,
+    "timeMonth": 227,
+    "timeYear": 570,
     "dailyMinutesDown": {
       "2024-09-05": 19
     }
@@ -117,8 +115,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 85,
-    "timeWeek": 101,
+    "timeDay": 75,
+    "timeWeek": 105,
     "timeMonth": 150,
     "timeYear": 242,
     "dailyMinutesDown": {}
