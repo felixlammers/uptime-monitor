@@ -1,7 +1,7 @@
 url: netflix.com
-status: down
-code: 504
-responseTime: 516
-lastUpdated: 2025-10-20T11:47:41.107Z
+status: up
+code: 200
+responseTime: 1051
+lastUpdated: 2025-10-20T11:55:10.560Z
 startTime: 2024-03-19T16:38:41.644Z
 generator: Upptime <https://github.com/upptime/upptime>
