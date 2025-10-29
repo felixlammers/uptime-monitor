@@ -4,18 +4,20 @@
     "url": "start.felixmedia.xyz",
     "icon": "https://start.felixmedia.xyz/images/icon.svg",
     "slug": "dynamic-start-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 268,
+    "time": 269,
     "timeDay": 701,
     "timeWeek": 662,
     "timeMonth": 428,
     "timeYear": 288,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-29": 1
+    }
   },
   {
     "name": "Fast (Short Link Service)",
