@@ -4,19 +4,19 @@
     "url": "start.felixmedia.xyz",
     "icon": "https://start.felixmedia.xyz/images/icon.svg",
     "slug": "dynamic-start-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 701,
-    "timeWeek": 662,
-    "timeMonth": 428,
-    "timeYear": 288,
+    "time": 270,
+    "timeDay": 601,
+    "timeWeek": 644,
+    "timeMonth": 430,
+    "timeYear": 289,
     "dailyMinutesDown": {
-      "2025-10-29": 1
+      "2025-10-29": 11
     }
   },
   {
