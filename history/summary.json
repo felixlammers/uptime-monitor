@@ -14,7 +14,7 @@
     "timeDay": 346,
     "timeWeek": 420,
     "timeMonth": 461,
-    "timeYear": 298,
+    "timeYear": 299,
     "dailyMinutesDown": {}
   },
   {
@@ -42,9 +42,9 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 133,
     "timeDay": 298,
@@ -52,7 +52,6 @@
     "timeMonth": 250,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2025-11-15": 8,
       "2025-08-21": 24,
       "2025-07-07": 16,
       "2025-07-06": 15
@@ -73,7 +72,7 @@
     "timeDay": 838,
     "timeWeek": 972,
     "timeMonth": 1324,
-    "timeYear": 1289,
+    "timeYear": 1290,
     "dailyMinutesDown": {
       "2025-10-20": 366,
       "2025-08-09": 16,
@@ -98,7 +97,7 @@
     "timeDay": 247,
     "timeWeek": 314,
     "timeMonth": 293,
-    "timeYear": 443,
+    "timeYear": 442,
     "dailyMinutesDown": {
       "2025-09-10": 23,
       "2025-09-09": 19
@@ -119,7 +118,7 @@
     "timeDay": 229,
     "timeWeek": 203,
     "timeMonth": 191,
-    "timeYear": 207,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   }
 ]
