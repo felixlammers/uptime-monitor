@@ -1,7 +1,7 @@
 url: start.felixmedia.xyz
-status: up
-code: 200
-responseTime: 355
-lastUpdated: 2025-11-20T23:02:22.252Z
+status: down
+code: 502
+responseTime: 313
+lastUpdated: 2025-11-21T14:28:58.495Z
 startTime: 2024-04-23T09:06:01.480Z
 generator: Upptime <https://github.com/upptime/upptime>
