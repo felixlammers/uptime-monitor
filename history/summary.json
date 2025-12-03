@@ -69,13 +69,13 @@
     "status": "up",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.91%",
     "time": 1253,
     "timeDay": 983,
-    "timeWeek": 1016,
-    "timeMonth": 1051,
+    "timeWeek": 1034,
+    "timeMonth": 1061,
     "timeYear": 1280,
     "dailyMinutesDown": {
       "2025-11-26": 20,
@@ -113,17 +113,19 @@
     "url": "en.wikipedia.org",
     "icon": "https://www.wikipedia.org/favicon.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 116,
-    "timeWeek": 214,
-    "timeMonth": 182,
-    "timeYear": 202,
-    "dailyMinutesDown": {}
+    "time": 230,
+    "timeDay": 1054,
+    "timeWeek": 436,
+    "timeMonth": 240,
+    "timeYear": 207,
+    "dailyMinutesDown": {
+      "2025-12-03": 0
+    }
   }
 ]
